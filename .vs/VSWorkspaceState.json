@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\components",
+    "\\src\\components\\account",
+    "\\src\\components\\customer",
+    "\\src\\components\\dashboard",
+    "\\src\\pages",
+    "\\src\\__mocks__"
+  ],
+  "SelectedNode": "\\src\\components\\dashboard",
+  "PreviewInSolutionExplorer": false
+}
